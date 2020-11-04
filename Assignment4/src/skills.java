@@ -2,9 +2,10 @@
 public class skills {
 	String Itproficiency;
 	
+	
 
 	skills(){
-		this.Itproficiency = "(Microsoft Office Applications, CISCO Packet Tracer, C++ and Mininet)";
+		this.Itproficiency = " (Microsoft Office Applications, CISCO Packet Tracer, C++ and Mininet)";
 		
 	}
 	skills(String a,String b,String c){
@@ -13,7 +14,7 @@ public class skills {
 	
 	public void printmyskills() {
 		skills one =new skills();
-		System.out.println("Skills      : 1. IT Proficiency"+one.Itproficiency+". ");  
+		System.out.println("Skills      : IT Proficiency"+one.Itproficiency+". ");  
 		
 }
 

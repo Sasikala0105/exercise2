@@ -11,9 +11,13 @@ public class newMain {
 			
 			
 			pi1.printPinfo();
+			System.out.println("\t");
 			obj1.printcgpa();
+			System.out.println("\t");
 			r1.printResult();
+			System.out.println("\t");
 			w2.printworkexperience();
+			System.out.println("\t");
 			s.printmyskills();
 			
 	 }
