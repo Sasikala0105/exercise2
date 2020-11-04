@@ -6,7 +6,7 @@ public class result {
 	
 	result(){
 		
-		this.subject="STIA 113";
+		this.subject="STIA 1113";
 	}
 	
 	result(char a){
