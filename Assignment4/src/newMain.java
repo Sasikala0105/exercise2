@@ -4,14 +4,18 @@ public class newMain {
 		
 		 personalinfo pi1 = new personalinfo();
 		 cgpa     obj1 = new cgpa();
+		 result r1 = new result(); 
 		 workExperience w2 = new workExperience();
-		 result r1 = new result();
+		 skills s = new skills();
+		
 			
 			
 			pi1.printPinfo();
 			obj1.printcgpa();
-			w2.printworkexperience();
 			r1.printResult();
+			w2.printworkexperience();
+			s.printmyskills();
+			
 	 }
 
 }
